@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>select2-bootstrap-css</artifactId>
-    <version>1.4.4</version>
+    <version>1.4.5-SNAPSHOT</version>
     <name>select2-bootstrap-css</name>
     <description>WebJar for select2-bootstrap-css</description>
     <url>http://webjars.org</url>
@@ -44,7 +44,7 @@
         <url>http://github.com/webjars/select2-bootstrap-css</url>
         <connection>scm:git:https://github.com/webjars/select2-bootstrap-css.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/select2-bootstrap-css.git</developerConnection>
-        <tag>select2-bootstrap-css-1.4.4</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencies>
